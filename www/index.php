@@ -4,9 +4,7 @@
 </head>
 <body>
 <center> <a href="/kay.php">Kayit Ol</a>
-<br>
-<br>
-<br>
+<br><br><br>
 <a href="/giris.php"> Giris </a>
 <br> <br> <br>
 </center>
