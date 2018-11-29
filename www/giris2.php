@@ -1,5 +1,9 @@
 <html>
 <head>
+<style type="text/css">
+ body { background-color:#ccffcc;
+ }
+ </style>
 </head>
 <body>
 <?php
